@@ -15,4 +15,4 @@ Cross-discipline data discovery, integration, and synthesis remain challenging t
 1. Make the IRIs resolve - Accessibility 
 1. Develop and implement a process for maintaining the FAIR vocabulary
 
-Explore [examples](https://fairvocabularies.github.io/Examples) on how to apply these rules.
+Explore [examples](https://fairvocabularies.github.io/examples) on how to apply these rules.
