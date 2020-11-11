@@ -4,7 +4,7 @@ Cross-discipline data discovery, integration, and synthesis remain challenging t
 
 ## Rules for making a vocabulary FAIR
 
-1. Verify that the source license allows repurposing
+1. Verify that the legacy-vocabulary license allows repurposing
 1. Determine the governance arrangements and custodian responsible for the legacy vocabulary
 1. Check minimal term definition completeness 
 1. Select a domain and service for the web identifiers 
