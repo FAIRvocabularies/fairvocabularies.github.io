@@ -16,3 +16,5 @@ Cross-discipline data discovery, integration, and synthesis remain challenging t
 1. Develop and implement a process for maintaining the FAIR vocabulary
 
 Explore [examples](https://fairvocabularies.github.io/examples) on how to apply these rules.
+
+We maintain relevant references in a [Zotero library](https://www.zotero.org/groups/2591814/fairvocabularies/collections/R92J7A7W/items/4KR7DB9U/).
