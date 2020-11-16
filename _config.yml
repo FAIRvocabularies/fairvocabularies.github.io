@@ -8,9 +8,10 @@ relative_links:
   enabled: true
   collections: true
 include:
-  - CONTRIBUTING.md
-  - README.md
   - LICENSE.md
+exclude: 
+  - README.md
+  - CONTRIBUTING.md
   - COPYING.md
   - CODE_OF_CONDUCT.md
   - CONTRIBUTING.md
