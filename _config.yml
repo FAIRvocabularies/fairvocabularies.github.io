@@ -1,4 +1,6 @@
 theme: minima
+
+title: FAIR Vocabularies
 header_pages:
   - _pages/main.md
   - _pages/makeVocabularyFAIR.md
@@ -8,9 +10,10 @@ relative_links:
   enabled: true
   collections: true
 include:
-  - LICENSE.md
+  - _pages
 exclude: 
   - README.md
+  - LICENSE.md
   - CONTRIBUTING.md
   - COPYING.md
   - CODE_OF_CONDUCT.md
