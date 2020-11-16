@@ -1,4 +1,7 @@
 theme: minima
+header_pages:
+  - README.md
+  - makeVocabularyFAIR.md
 plugins:
   - jekyll-relative-links
 relative_links:
