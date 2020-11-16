@@ -1,11 +1,8 @@
 ---
 permalink: /makeVocabularyFAIR
 layout: page
-title: Make Vocabulary FAIR
+title: Make a vocabulary FAIR
 ---
-
-
-## Making a vocabulary FAIR
 
 ### Use case
 
