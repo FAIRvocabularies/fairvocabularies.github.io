@@ -1,7 +1,7 @@
 ---
 permalink: /
 layout: home
-title: FAIR Vocabularies
+title: Guidelines
 list_title: 
 ---
 
