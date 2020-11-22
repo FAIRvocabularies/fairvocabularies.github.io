@@ -1,0 +1,31 @@
+%%{init: { 'logLevel': 'debug', 'theme': 'dark' } }%%
+graph TB
+  
+  UserStories[Data annotation, data integration <br> or data interoperability requirement]
+  style UserStories fill:#009FD4,stroke:#333,stroke-width:4px 
+
+  VocabExists{Is there a suitable <br> vocabulary <br> -- or list of terms/codes <br> and definitions ?}
+  style VocabExists fill:#5C97BF, stroke:#ffffff
+
+  EngageDomainExperts[Engage with domain experts <br> to create vocabulary]
+  style EngageDomainExperts fill:#009FD4,stroke:#333,stroke-width:4px 
+
+  IsVocabFAIR{Is the vocabulary FAIR?}
+  style IsVocabFAIR fill:#5C97BF, stroke:#ffffff
+
+
+  MakeVocabularyFAIR[Make the vocabulary FAIR <br> -- click to see guideline -- ]	
+  style MakeVocabularyFAIR fill:#00A4A6,stroke:#333,stroke-width:4px, stroke-dasharray:5 5
+  click MakeVocabularyFAIR "https://fairvocabularies.github.io/" "click to see guidelines"
+
+  AdoptFAIRVocabulary[Adopt the FAIR vocabulary]
+  style AdoptFAIRVocabulary fill:#009FD4,stroke:#333,stroke-width:4px 
+
+  UserStories --> VocabExists
+  VocabExists -->|No| EngageDomainExperts
+  VocabExists -->|Yes| IsVocabFAIR
+  IsVocabFAIR --> |Yes| AdoptFAIRVocabulary
+  IsVocabFAIR --> |No| MakeVocabularyFAIR
+  EngageDomainExperts --> MakeVocabularyFAIR
+  MakeVocabularyFAIR --> AdoptFAIRVocabulary
+  

@@ -1,16 +1,20 @@
+title: FAIR Vocabularies
+description: A website for the guidelines for FAIR vocabularies.
 theme: minima
 
-title: FAIR Vocabularies
 header_pages:
   - _pages/main.md
   - _pages/makeVocabularyFAIR.md
+
 plugins:
   - jekyll-relative-links
 relative_links:
   enabled: true
   collections: true
+
 include:
   - _pages
+  
 exclude: 
   - README.md
   - LICENSE.md
