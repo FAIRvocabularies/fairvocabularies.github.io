@@ -1,6 +1,6 @@
 title: FAIR Vocabularies
 description: A website for the guidelines for FAIR vocabularies.
-theme: jekyll-theme-leap-day
+theme: jekyll-theme-minimal
 
 header_pages:
   - _pages/main.md
