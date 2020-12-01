@@ -1,0 +1,10 @@
+title: Menu
+menuitems:
+  - title: Guidelines
+    url: index 
+    
+  - title: Make vocabulary FAIR
+    url: makeVocabularyFAIR
+
+  - title: Examples
+    url: https://fairvocabularies.github.io/examples/

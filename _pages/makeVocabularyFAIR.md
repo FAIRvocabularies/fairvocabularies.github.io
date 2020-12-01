@@ -2,7 +2,6 @@
 permalink: /makeVocabularyFAIR
 layout: default
 title: Make a vocabulary FAIR
-list_title: Guidelines
 ---
 
 ### Use case
