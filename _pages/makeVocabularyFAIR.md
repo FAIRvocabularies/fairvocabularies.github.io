@@ -26,6 +26,8 @@ We are considering the use case depicted in the following flowchart:
 1. Make the IRIs resolve - Accessibility 
 1. Develop and implement a process for maintaining the FAIR vocabulary
 
+These rules are described in more detail in our [pre-print article](https://arxiv.org/abs/2012.02325).
+
 Explore [examples](https://fairvocabularies.github.io/examples) on how to apply these rules.
 
 We maintain relevant references in a [Zotero library](https://www.zotero.org/groups/2591814/fairvocabularies/collections/R92J7A7W/items/4KR7DB9U/).
