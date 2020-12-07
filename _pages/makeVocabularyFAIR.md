@@ -15,16 +15,16 @@ We are considering the use case depicted in the following flowchart:
 
 ### Rules
 
-1. Verify that the legacy-vocabulary license allows repurposing
-1. Determine the governance arrangements and custodian responsible for the legacy vocabulary
-1. Check minimal term definition completeness 
-1. Select a domain and service for the web identifiers 
-1. Design an identifier scheme and pattern 
-1. Create a semantic-standards based vocabulary - Interoperability
-1. Add rich metadata - Reusability
-1. Register the vocabulary - Findability 
-1. Make the IRIs resolve - Accessibility 
-1. Develop and implement a process for maintaining the FAIR vocabulary
+- **Rule 1.** Verify that the legacy-vocabulary license allows repurposing
+- **Rule 2.** Determine the governance arrangements and custodian responsible for the legacy vocabulary
+- **Rule 3.** Check minimal term definition completeness 
+- **Rule 4.** Select a domain and service for the web identifiers 
+- **Rule 5.** Design an identifier scheme and pattern 
+- **Rule 6.** Create a semantic-standards based vocabulary - Interoperability
+- **Rule 7.** Add rich metadata - Reusability
+- **Rule 8.** Register the vocabulary - Findability 
+- **Rule 9.** Make the IRIs resolve - Accessibility 
+- **Rule 10.** Develop and implement a process for maintaining the FAIR vocabulary
 
 These rules are described in more detail in our [pre-print article](https://arxiv.org/abs/2012.02325).
 
