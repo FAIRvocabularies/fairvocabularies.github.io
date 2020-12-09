@@ -8,3 +8,6 @@ menuitems:
 
   - title: Examples
     url: https://fairvocabularies.github.io/examples/
+
+  - title: About
+    url: about
