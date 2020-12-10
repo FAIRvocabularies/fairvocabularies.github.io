@@ -9,10 +9,10 @@ title: About
 This website and the work related to FAIR vocabularies presented here has been produced by a working group, which started in the [Dagstuhl workshop](https://codata.org/initiatives/strategic-programme/decadal-programme/dagstuhl-workshop-2019/) on "Interoperability of Metadata Standards in Cross-Domain Science, Health and Social Science Applications" organised by CODATA and DDI.
 
 The contributors to this work are:
-- [Simon Cox](https://people.csiro.au/C/S/Simon-Cox)
-- [Alejandra Gonzalez-Beltran](https://agbeltran.github.io/)
-- [Barbara Magnana](mailto:barbara.magagna@gmail.com)
-- Maria Cristina Marinescu
+- [Simon Cox](https://people.csiro.au/C/S/Simon-Cox), ORCID: [0000-0002-3884-3420](https://orcid.org/0000-0002-3884-3420)
+- [Alejandra Gonzalez-Beltran](https://agbeltran.github.io/), ORCID: [0000-0003-3499-8262](https://orcid.org/0000-0003-3499-8262)
+- [Barbara Magnana](mailto:barbara.magagna@gmail.com). ORCID: [0000-0003-2195-3997 ](https://orcid.org/0000-0003-2195-3997) 
+- Maria Cristina Marinescu, ORCID: [0000-0002-6978-2974](https://orcid.org/0000-0002-6978-2974)
 
 # Pre-print
 
