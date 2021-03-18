@@ -6,19 +6,18 @@ title: Make a vocabulary FAIR
 
 # Make a vocabulary FAIR
 
-
 ### Rules
 
-- **Rule 1.** Verify that the legacy-vocabulary license allows repurposing
-- **Rule 2.** Determine the governance arrangements and custodian responsible for the legacy vocabulary
-- **Rule 3.** Check minimal term definition completeness 
-- **Rule 4.** Select a domain and service for the web identifiers 
-- **Rule 5.** Design an identifier scheme and pattern 
-- **Rule 6.** Create a semantic-standards based vocabulary - Interoperability
-- **Rule 7.** Add rich metadata - Reusability
-- **Rule 8.** Register the vocabulary - Findability 
-- **Rule 9.** Make the IRIs resolve - Accessibility 
-- **Rule 10.** Develop and implement a process for maintaining the FAIR vocabulary
+- **Rule 1.** Determine the governance arrangements and custodian of the legacy vocabulary
+- **Rule 2.** Verify that the legacy-vocabulary license allows repurposing, and agree on the license for the FAIR vocabulary
+- **Rule 3.** Check term and definition completeness and consistency in the legacy vocabulary
+- **Rule 4.** Establish a technical maintenance environment for the FAIR vocabulary
+- **Rule 5.** Assign a unique and persistent identifier to (a) the vocabulary and (b) each term in the vocabulary
+- **Rule 6.** Create machine readable representations of the vocabulary terms
+- **Rule 7.** Add vocabulary metadata 
+- **Rule 8.** Register the vocabulary 
+- **Rule 9.** Make the vocabulary accessible for humans and machines
+- **Rule 10.** Implement a process for maintaining the FAIR vocabulary
 
 These rules are described in more detail in our [pre-print article](https://arxiv.org/abs/2012.02325).
 
