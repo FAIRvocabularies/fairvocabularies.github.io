@@ -24,6 +24,8 @@ For a vocabulary to be FAIR, it should be:
 - **Interoperable**: encoded in a standard representation, such as the Web Ontology Language (OWL) or SKOS and domain-specific extensions
 - **Reusable**: licensed and maintained, ideally with an open license 
 
+Our approach of FAIR vocabularies relies on [web standards](_pages/webStandards.md)
+
 # Guidelines for FAIR Vocabularies
 
 - [Guidelines for making a vocabulary FAIR](_pages/makeVocabularyFAIR.md)

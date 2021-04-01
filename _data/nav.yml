@@ -2,6 +2,9 @@ title: Menu
 menuitems:
   - title: Guidelines
     url: index 
+
+  - title: Web Standards
+    url: webStandards
     
   - title: Make vocabulary FAIR
     url: makeVocabularyFAIR
