@@ -20,4 +20,4 @@ A Uniform Resource Identifier (URI) is a compact sequence of characters that ide
 
 A URI is a name designed to be unique, there are many schemes. A URI is a name that can be encoded using standard Latin alphabet, numbers and a limited set of other characters (the ASCII character set), following rules specified in [IETF RFC 3986](https://tools.ietf.org/html/rfc3986)
 
-An IRI is a generalised URI that allows names constructed with non-Latin characters and a broader set of symbols (anything that can be encoded using UTF-8)
+An Internationalized Resource Identifier (IRI) is a generalised URI that allows names constructed with non-Latin characters and a broader set of symbols (anything that can be encoded using UTF-8). More details can be found in [IETF RFC 3987](https://tools.ietf.org/html/rfc3987).
