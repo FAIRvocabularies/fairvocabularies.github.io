@@ -29,4 +29,4 @@ FAIR vocabularies representation relies on [web standards](_pages/webStandards.m
 # Guidelines for FAIR Vocabularies
 
 - [Guidelines for making a vocabulary FAIR](_pages/makeVocabularyFAIR.md)
-- Guidelines for maintaining a FAIR vocabulary
+- Guidelines for maintaining a FAIR vocabulary - coming soon!
