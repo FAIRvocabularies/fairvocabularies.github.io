@@ -14,7 +14,7 @@ We devised ten simple rules that would allow you to transform a 'legacy' vocabul
 - **Rule 1.** Determine the governance arrangements and custodian of the legacy vocabulary
 - **Rule 2.** Verify that the legacy-vocabulary license allows repurposing, and agree on the license for the FAIR vocabulary
 - **Rule 3.** Check term and definition completeness and consistency in the legacy vocabulary
-- **Rule 4.** Establish a technical maintenance environment for the FAIR vocabulary
+- **Rule 4.** Establish a traceable maintenance environment for the FAIR vocabulary content
 - **Rule 5.** Assign a unique and persistent identifier to (a) the vocabulary and (b) each term in the vocabulary
 - **Rule 6.** Create machine readable representations of the vocabulary terms
 - **Rule 7.** Add vocabulary metadata 
