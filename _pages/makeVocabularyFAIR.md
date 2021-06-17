@@ -10,6 +10,8 @@ title: Make a vocabulary FAIR
 
 We devised ten simple rules that would allow you to transform a 'legacy' vocabulary into a FAIR vocabulary. We consider a 'legacy' vocabulary as a list of terms available in a print-based glossary or in a table not accessible using web standards. 
 
+These rules are described in more detail in our peer-reviewed article in PLoS Comp Bio: ["Ten simple rules for making a vocabulary FAIR"](https://doi.org/10.1371/journal.pcbi.1009041). The first version of this article is available as an [arXiv pre-print](https://arxiv.org/abs/2012.02325).
+
 
 - **Rule 1.** Determine the governance arrangements and custodian of the legacy vocabulary
 - **Rule 2.** Verify that the legacy-vocabulary license allows repurposing, and agree on the license for the FAIR vocabulary
@@ -22,7 +24,7 @@ We devised ten simple rules that would allow you to transform a 'legacy' vocabul
 - **Rule 9.** Make the vocabulary accessible for humans and machines
 - **Rule 10.** Implement a process for maintaining the FAIR vocabulary
 
-These rules are described in more detail in our [pre-print article](https://arxiv.org/abs/2012.02325).
+
 
 Explore [examples](https://fairvocabularies.github.io/examples) on how to apply these rules.
 
